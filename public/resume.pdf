@@ -1,0 +1,84 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 5 0 R /F2 6 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 4642 >>
+stream
+BT /F2 21 Tf 1 0 0 1 56 785.89 Tm (ATHARV GIDDE) Tj ET
+BT /F1 10.5 Tf 1 0 0 1 56 765.89 Tm (Full-Stack Developer  |  B.Tech Computer Science & Engineering) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 56 751.89 Tm (Pandharpur, Maharashtra, India  |  your.email@example.com) Tj ET
+BT /F1 9.5 Tf 1 0 0 1 56 738.89 Tm (linkedin.com/in/atharv-gidde-460329381  |  github.com/giddeatharv2007-art) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 56 722.89 Tm (SUMMARY) Tj ET
+0.7 w 0.82 0.82 0.82 RG 56 714.89 m 539.28 714.89 l S
+BT /F1 10 Tf 1 0 0 1 56 694.89 Tm (B.Tech Computer Science & Engineering undergraduate building full-stack systems with React,) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 681.39 Tm (Django and PostgreSQL, with applied AI / Data Science grounding and hands-on embedded & IoT) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 667.89 Tm (prototyping. Comfortable owning a problem from database schema through to a deployed, responsive) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 654.39 Tm (interface.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 56 634.89 Tm (EDUCATION) Tj ET
+0.7 w 0.82 0.82 0.82 RG 56 626.89 m 539.28 626.89 l S
+BT /F2 11 Tf 1 0 0 1 56 606.89 Tm (B.Tech - Computer Science & Engineering) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 592.89 Tm (SKN Sinhgad College of Engineering, Pandharpur, Maharashtra) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 56 566.89 Tm (TECHNICAL SKILLS) Tj ET
+0.7 w 0.82 0.82 0.82 RG 56 558.89 m 539.28 558.89 l S
+BT /F1 10 Tf 1 0 0 1 56 538.89 Tm (Languages: Python, C, JavaScript, SQL, C/C++) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 525.39 Tm (Frontend: React, Vite, Tailwind CSS, responsive & accessible UI) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 511.89 Tm (Backend & Data: Django, REST APIs, PostgreSQL, Supabase \(RLS\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 498.39 Tm (Cloud & Tooling: AWS fundamentals, Git, Linux, CI/CD basics) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 484.89 Tm (Hardware: Arduino, MFRC522 RFID modules, sensor integration) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 56 458.89 Tm (SELECTED PROJECTS) Tj ET
+0.7 w 0.82 0.82 0.82 RG 56 450.89 m 539.28 450.89 l S
+BT /F2 10 Tf 1 0 0 1 56 430.89 Tm (EduNexus - Smart India Hackathon prototype \(React, Vite, Django, PostgreSQL\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 417.39 Tm (-  Unifies AI-driven skill mapping, personalized learning paths, internship & job matching,) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 403.89 Tm (    verified profiles and industry-academia collaboration on one platform.) Tj ET
+BT /F2 10 Tf 1 0 0 1 56 390.39 Tm (NextGen Attendance System - IoT / Hardware \(Arduino, C/C++, MFRC522 RFID\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 376.89 Tm (-  Automated RFID attendance management built for Ideathon 2k26 using Arduino microcontrollers,) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 363.39 Tm (    RFID readers, LEDs and active buzzers.) Tj ET
+BT /F2 10 Tf 1 0 0 1 56 349.89 Tm (Editorial Developer Portfolio - Web \(React, Tailwind CSS, Supabase, Vercel\)) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 336.39 Tm (-  Dark editorial site with GSAP scroll choreography, Lenis smooth scroll and a Supabase-backed) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 322.89 Tm (    projects feed that degrades gracefully.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 56 303.39 Tm (CERTIFICATIONS & ACHIEVEMENTS) Tj ET
+0.7 w 0.82 0.82 0.82 RG 56 295.39 m 539.28 295.39 l S
+BT /F1 10 Tf 1 0 0 1 56 275.39 Tm (-  Python for Data Science \(Elite\) - IIT Madras / NPTEL, Jul-Aug 2026. Score 63% \(assignments) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 261.89 Tm (    22.67/25, proctored exam 39.75/75\), among 16,840 certified candidates, 2 credits recommended.) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 248.39 Tm (    Roll No: NPTEL26CS107S165100006.) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 234.89 Tm (-  100 Days of Code: The Complete Python Pro Bootcamp - Udemy \(Dr. Angela Yu\), 57 total hours,) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 221.39 Tm (    completed June 21, 2026.) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 207.89 Tm (-  Introduction to Data Science - Cisco Networking Academy: analytics fundamentals, data in AI &) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 194.39 Tm (    ML, career pathways.) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 180.89 Tm (-  TCS iON Career Edge - Young Professional - Tata Consultancy Services, Apr 20 - May 4, 2026.) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 167.39 Tm (-  Sinhgad Hackathon 2026 \(National Level\) - Certificate of Participation, ACSES & Dept. of CSE,) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 153.89 Tm (    March 13-14, 2026.) Tj ET
+BT /F2 9.5 Tf 1 0 0 1 56 134.39 Tm (PUBLISHED WRITING) Tj ET
+0.7 w 0.82 0.82 0.82 RG 56 126.39 m 539.28 126.39 l S
+BT /F1 10 Tf 1 0 0 1 56 106.39 Tm ("The Expanding World of Data Science" - TECHNOVA 2026, Vol. 2, published by the Department of) Tj ET
+BT /F1 10 Tf 1 0 0 1 56 92.89 Tm (Computer Engineering, SKN Sinhgad College of Engineering \(authored as SY-CSE\).) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+6 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000263 00000 n 
+0000004957 00000 n 
+0000005054 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+5156
+%%EOF
